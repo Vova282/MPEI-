@@ -43,9 +43,6 @@ body {
     padding: 1vh 0;
     border-bottom: 0.5vh solid var(--line);
 }
-.header__logo {
-
-}
 
 .header__logo-picture {
     max-width: 10rem;
@@ -119,9 +116,6 @@ footer {
     border-top: 0.5vh solid var(--line);
 }
 
-.footer__logo {
-
-}
 
 .footer__logo-picture {
     max-width: 10rem;
@@ -148,9 +142,7 @@ footer {
 .footer__link-nav a:hover {
     color: var(--botton);
 }
-.footer__link {
-    
-}
+
 .footer__icon-nav a{
     color: var(--dark);
     text-decoration: none;
@@ -177,10 +169,6 @@ footer {
 .main__map {
     display: flex;
     justify-content: space-evenly;
-}
-
-.map__text {
-
 }
 
 .map__text-title {
